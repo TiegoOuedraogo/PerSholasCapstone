@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### /my-react-app
-|-- /src
+#  |-- /src
     |-- /components
     |  |-- Navbar.js               # Component for the navigation bar
     |   |-- SearchBar.js            # Component for the search functionality
@@ -122,7 +122,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     |-- index.js                    # Entry point for the React application
     |-- ...
 
- Backend will be like this
+# Backend will be like this
 /my-ecommerce-app-backend
 |-- /controllers       # Business logic handlers for various routes
 |-- /routes            # API route definitions
