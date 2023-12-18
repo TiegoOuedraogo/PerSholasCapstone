@@ -70,12 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### /my-react-app
-## |-- /src
-#   |-- /components
-#   |  |-- Navbar.js               # Component for the navigation bar
-#   |   |-- SearchBar.js            # Component for the search functionality
-#   |   |-- Banner.js               # Component for the main banner
-#   |   |-- Logo.js                 # Component for the site logo
+#  |-- /src
+    |-- /components
+    |  |-- Navbar.js               # Component for the navigation bar
+    |   |-- SearchBar.js            # Component for the search functionality
+    |   |-- Banner.js               # Component for the main banner
+    |   |-- Logo.js                 # Component for the site logo
     |   |-- ProductList.js          # Component to display a list of products
     |   |-- ProductItem.js          # Component for each product in the list
     |   |-- Cart.js                 # Component for the shopping cart
