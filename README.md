@@ -122,8 +122,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     |-- index.js                    # Entry point for the React application
     |-- ...
 
-## Backend will be like this
-/my-ecommerce-app-backend
+### Backend will be like this
+# /my-ecommerce-app-backend
 |-- /controllers       # Business logic handlers for various routes
 |-- /routes            # API route definitions
 |-- /models            # Database models
